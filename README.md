@@ -1,1 +1,2 @@
-# Publishing-Temperature-and-Humidity-Sensor-Data-to-AWS---IoT
+# Publishing-Temperature-and-Humidity-Sensor-Data-to-AWS IoT
+Raspberry Pi has always been the first choice for developing IoT based applications if some level of computation is involved. With the flexibility of python and strong developer community it is very easy to collect, log, analyze or report a set of data using the Pi. In this tutorial we will learn how to blend in the power of Raspberry Pi with the Amazon AWS service to publish data online to the Internet.
